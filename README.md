@@ -68,4 +68,21 @@ Designed **10 interactive dashboards** across five key categories:
 📊 **Pie Charts** – Booking status distribution  
 📊 **Bar Charts** – Revenue by payment method & ride distances by vehicle type  
 📊 **Scatter Plots** – Correlation between customer & driver ratings  
-📊 **Histograms** – Ride distance distribution by date  
+📊 **Histograms** – Ride distance distribution by date     
+
+## Dashboard Screenshots
+
+### 📊 Main Dashboard  
+![Dashboard](Screenshot%20(154).png)
+
+### 📈 Trends Analysis  
+![Trends](Screenshot%20(155).png)
+
+### 🚗 Ride Insights  
+![Insights](Screenshot%20(156).png)
+
+### 💰 Revenue Report  
+![Revenue](Screenshot%20(157).png)
+
+### 📍 Geospatial Analysis  
+![Map](Screenshot%20(158).png)
