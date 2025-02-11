@@ -1,6 +1,3 @@
-Haan bhai, tu chahta hai ki README thoda aur attractive lage jaise screenshot me dikh raha hai. Ye le, ek mast formatted version:  
-
----
 
 # 🚖 OLA Data Analysis Project  
 
@@ -72,7 +69,3 @@ Designed **10 interactive dashboards** across five key categories:
 📊 **Bar Charts** – Revenue by payment method & ride distances by vehicle type  
 📊 **Scatter Plots** – Correlation between customer & driver ratings  
 📊 **Histograms** – Ride distance distribution by date  
-
----
-
-Ye ab GitHub pe copy-paste kar de, ekdum **professional aur visually appealing** lagega! 🚀😎
